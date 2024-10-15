@@ -1,0 +1,12 @@
+1	rat
+2	art
+3	are
+4	ate
+5	tar
+6	tat
+7	tea
+8	era
+9	ere
+10	ear
+11	eat
+12	eta

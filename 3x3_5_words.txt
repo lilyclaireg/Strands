@@ -1,0 +1,8 @@
+1	shout
+2	shush
+3	sushi
+4	ought
+5	highs
+6	thous
+7	tough
+8	tutus
